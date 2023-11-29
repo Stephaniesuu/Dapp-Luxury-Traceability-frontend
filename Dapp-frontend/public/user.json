@@ -1,0 +1,32 @@
+[
+    {
+        "email": "1",
+        "password": "1",
+        "role": "mining"
+    },
+    {
+        "email": "2",
+        "password": "2",
+        "role": "cutting"
+    },
+    {
+        "email": "3",
+        "password": "3",
+        "role": "grading"
+    },
+    {
+        "email": "4",
+        "password": "4",
+        "role": "jewelrymaker"
+    },
+    {
+        "email": "5",
+        "password": "5",
+        "role": "customer"
+    },
+    {
+        "email": "6",
+        "password": "6",
+        "role": "0"
+    }
+]
