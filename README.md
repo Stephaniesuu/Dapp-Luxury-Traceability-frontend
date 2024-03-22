@@ -72,19 +72,19 @@
 ## quick start
 
 ```
-# Installation of dependent libraries
+// Installation of dependent libraries
 yarn install
-#or 
+//or 
 npm install
 
-# You can use --force if there are some version conflicts about dependencies 
+// You can use --force if there are some version conflicts about dependencies 
 yarn install --force
 
-# start 
+// start 
 npm run start
 
-# enter url:http://localhost:3000 
-# or http://127.0.0.1:3000/ 
+// enter url:http://localhost:3000 
+// or http://127.0.0.1:3000/ 
 
 ```
 
